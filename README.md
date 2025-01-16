@@ -1,5 +1,14 @@
-## 👋
+## 👋👋👋
 
-* 🌱 **Currently learning**: PHP and Javascript.
-* 🎮 **Currently doing**: some projects in Godot and Unity.
-* 🎨 **Hobbies**: videogames, mangas, playing guitar, music-making and weightlifting.
+### 🌱 Currently Learning:
+- PHP and Javascript/Node.JS.
+
+### 🎮 Currently Working On:
+- Some game-related/simulation projects in **Godot** and **Unity**.
+- A bit of front-end and back-end development of a website.
+
+### 🎨 Hobbies:
+- 🎮 Video games
+- 🎸 Playing guitar and making music
+- 📖 Mangas
+- 🏋️‍♂️ Weightlifting
