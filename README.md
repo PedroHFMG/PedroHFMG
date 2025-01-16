@@ -1,5 +1,12 @@
 ## 👋👋👋
 
+### 💻 Skills:
+- **Languages**: PHP, Java (Basics), Javascript/Node.js (Basics)
+- **Game Development**: Unity, Godot
+- **Databases**: PostgreSQL, MySQL
+- **Web Development**: HTML, CSS, JS
+- **Version Control**: Git
+
 ### 🌱 Currently Learning:
 - PHP and Javascript/Node.JS.
 
