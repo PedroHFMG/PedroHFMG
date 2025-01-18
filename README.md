@@ -10,7 +10,7 @@
 ### 🌱 Currently Learning:
 - PHP and Javascript/Node.JS.
 
-### 🎮 Currently Working On:
+### ✏️ Currently Working On:
 - Some game-related/simulation projects in **Godot** and **Unity**.
 - A bit of front-end and back-end development of a website.
 
