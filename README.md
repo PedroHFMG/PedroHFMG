@@ -3,7 +3,7 @@ Hi, my name is Pedro, I'm an **Information Systems** student at **UEMG**.
 
 I'm currently learning back-end development with some real projects inside my university. I also have some experience with front-end, web development as a whole, and game engines, mostly focused on 2D prototypes.
 
-At the moment, I'm starting to work on my thesis about 2D and 3D gravitational simulations, using **Godot** or **Unity**, and in the institutional website from our university's Junior Enterprise, **Avance Consultoria Jr.**, where I mainly handle back-end development. I also contributed to the development of the entire blog back-end structure from *Scapola Comunica*, a website that our team from Avance developed from late 2024 to early 2025.
+At the moment, I'm starting to work on my thesis about 2D and 3D gravitational simulations using **Godot** or **Unity**, and in the institutional website from our university's Junior Enterprise, **Avance Consultoria Jr.**, where I mainly handle back-end development. I also contributed to the development of the entire blog back-end structure from *Scapola Comunica*, a website that our team from Avance developed from late 2024 to early 2025.
 
 ### 💻 Skills:
 - **Languages**: PHP, Java (Basics), Javascript/Node.js (Basics)
